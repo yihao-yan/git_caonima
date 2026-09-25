@@ -9,5 +9,12 @@ int main(){
        printf("c = %d\n", c);
     printf("c = %d\n", c);
 
+ }
+
+<<<<<<<<< Temporary merge branch 1
+    printf("c = %d\n", c);
 }
+=========
+  
+>>>>>>>>> Temporary merge branch 2
 
