@@ -6,7 +6,7 @@ int main(){
     printf("c = %d\n", c);
     getchar();
     return 0;
-    
+       printf("c = %d\n", c);
  }
 
 
