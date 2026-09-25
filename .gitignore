@@ -1,0 +1,7 @@
+# 编译产物
+dw/*.exe
+dw/*.o
+# 日志文件
+dw/err.txt
+# VSCode工作区缓存
+.vscode/
