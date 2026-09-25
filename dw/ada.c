@@ -8,4 +8,8 @@ int main(){
     return 0;
        printf("c = %d\n", c);
     printf("c = %d\n", c);
+
  }
+
+  
+
