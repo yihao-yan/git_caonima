@@ -9,7 +9,5 @@ int main(){
        printf("c = %d\n", c);
     printf("c = %d\n", c);
 
- }
-
-  
+}
 
